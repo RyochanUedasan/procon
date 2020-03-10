@@ -13,3 +13,9 @@ https://qiita.com/drken/items/e77685614f3c6bf86f44
 - [x] ATC 001 A - https://atcoder.jp/contests/atc001/tasks/dfs_a
 - [x] ARC 031 B - https://atcoder.jp/contests/arc031/tasks/arc031_2
 - [x] ARC 037 B - https://atcoder.jp/contests/arc037/tasks/arc037_b
+
+## section1-3
+- [x] ABC 007 C - https://atcoder.jp/contests/abc007/tasks/abc007_3
+- [x] ABC 088 D - https://atcoder.jp/contests/abc088/tasks/abc088_d
+- [x] AGC 033 A - https://atcoder.jp/contests/agc033/tasks/agc033_a
+- [ ] ARC 005 C - https://atcoder.jp/contests/arc005/tasks/arc005_3
