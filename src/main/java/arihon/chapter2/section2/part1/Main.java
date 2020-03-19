@@ -1,4 +1,4 @@
-package arihon.chapter2.section2;
+package arihon.chapter2.section2.part1;
 
 import java.util.*;
 
