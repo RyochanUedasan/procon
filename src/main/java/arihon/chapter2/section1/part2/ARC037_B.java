@@ -1,4 +1,4 @@
-package arihon.chapter2.section2;
+package arihon.chapter2.section1.part2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

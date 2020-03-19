@@ -1,4 +1,4 @@
-package arihon.chapter2.section1;
+package arihon.chapter2.section1.part1;
 
 import java.util.Arrays;
 import java.util.Scanner;

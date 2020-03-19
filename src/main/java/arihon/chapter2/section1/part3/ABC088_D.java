@@ -1,4 +1,4 @@
-package arihon.chapter2.section3;
+package arihon.chapter2.section1.part3;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;
