@@ -19,3 +19,8 @@ https://qiita.com/drken/items/e77685614f3c6bf86f44
 - [x] ABC 088 D - https://atcoder.jp/contests/abc088/tasks/abc088_d
 - [x] AGC 033 A - https://atcoder.jp/contests/agc033/tasks/agc033_a
 - [ ] ARC 005 C - https://atcoder.jp/contests/arc005/tasks/arc005_3
+
+## section1-4
+- [x] ABC 054 C - https://atcoder.jp/contests/abc054/tasks/abc054_c
+- [x] JOI 2009 D - https://atcoder.jp/contests/joi2010yo/tasks/joi2010yo_d
+
