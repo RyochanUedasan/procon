@@ -24,3 +24,21 @@ https://qiita.com/drken/items/e77685614f3c6bf86f44
 - [x] ABC 054 C - https://atcoder.jp/contests/abc054/tasks/abc054_c
 - [x] JOI 2009 D - https://atcoder.jp/contests/joi2010yo/tasks/joi2010yo_d
 
+## section2-1
+- [x] AOJ Course コイン問題 - http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A&lang=jp
+
+## section2-2
+- [x] キーエンス プログラミング コンテスト 2020 B - https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b 
+- [x] ABC 103 D - https://atcoder.jp/contests/abc103/tasks/abc103_d 
+- [ ] ABC 038 D - https://atcoder.jp/contests/abc038/tasks/abc038_d
+
+## section2-3
+- [x] ABC 076 C - https://atcoder.jp/contests/abc076/tasks/abc076_c
+- [x] ABC 007 B - https://atcoder.jp/contests/abc007/tasks/abc007_2
+- [ ] ABC 009 C - https://atcoder.jp/contests/abc009/tasks/abc009_3
+
+## section2-4
+- [ ] ABC 083 C - https://atcoder.jp/contests/abc083/tasks/arc088_a
+- [ ] ARC 006 C - https://atcoder.jp/contests/arc006/tasks/arc006_3
+- [ ] ABC 005 C - https://atcoder.jp/contests/abc005/tasks/abc005_3 
+- [ ] ABC 091 C - https://atcoder.jp/contests/abc091/tasks/arc092_a
