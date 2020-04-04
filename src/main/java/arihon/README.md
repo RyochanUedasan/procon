@@ -38,7 +38,7 @@ https://qiita.com/drken/items/e77685614f3c6bf86f44
 - [ ] ABC 009 C - https://atcoder.jp/contests/abc009/tasks/abc009_3
 
 ## section2-4
-- [ ] ABC 083 C - https://atcoder.jp/contests/abc083/tasks/arc088_a
-- [ ] ARC 006 C - https://atcoder.jp/contests/arc006/tasks/arc006_3
+- [x] ABC 083 C - https://atcoder.jp/contests/abc083/tasks/arc088_a
+- [x] ARC 006 C - https://atcoder.jp/contests/arc006/tasks/arc006_3
 - [ ] ABC 005 C - https://atcoder.jp/contests/abc005/tasks/abc005_3 
 - [ ] ABC 091 C - https://atcoder.jp/contests/abc091/tasks/arc092_a
