@@ -1,4 +1,4 @@
-name := "kyo-pro"
+name := "procon"
 
 version := "0.1"
 
